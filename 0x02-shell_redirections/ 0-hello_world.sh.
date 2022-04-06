@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "hello,world"
-read hello,world
-
