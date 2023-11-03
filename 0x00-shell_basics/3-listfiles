@@ -1,18 +1,2 @@
 #!/bin/bash
--rw-r--r-- 1 root root  67 Nov  3 16:14 0-current_working_directory
--rw-r--r-- 1 root root   0 Nov  3 16:17 10-back
--rw-r--r-- 1 root root   0 Nov  3 16:17 11-lists
--rw-r--r-- 1 root root   0 Nov  3 16:17 12-file_type
--rw-r--r-- 1 root root   0 Nov  3 16:17 13-symbolic_link
--rw-r--r-- 1 root root   0 Nov  3 16:17 14-copy_html
--rw-r--r-- 1 root root 145 Nov  3 16:22 1-listit
--rw-r--r-- 1 root root   0 Nov  3 16:17 1-listit~
--rw-r--r-- 1 root root   0 Nov  3 16:17 2-bring_me_home
--rw-r--r-- 1 root root   0 Nov  3 16:17 3-listfiles
--rw-r--r-- 1 root root   0 Nov  3 16:17 4-listmorefiles
--rw-r--r-- 1 root root   0 Nov  3 16:17 5-listfilesdigitonly
--rw-r--r-- 1 root root   0 Nov  3 16:17 6-firstdirectory
--rw-r--r-- 1 root root   0 Nov  3 16:17 7-movethatfile
--rw-r--r-- 1 root root   0 Nov  3 16:17 8-firstdelete
--rw-r--r-- 1 root root   0 Nov  3 16:17 9-firstdirdeletion
--rw-r--r-- 1 root root   9 Nov  3 16:05 README.md
+ls -
